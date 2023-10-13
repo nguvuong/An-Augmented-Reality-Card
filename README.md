@@ -1,11 +1,16 @@
-# An-Augmented-Reality-Card
+An Augmented Reality Card
+Quick Start
+Scan the AR Code:
 
-This project contains a Forge app written in Javascript that displays Hello World! in a Confluence macro.
+To experience the magic of augmented reality, follow these simple steps:
 
-Quick start
-Scan the AR code using Camera
+Open your device's camera.
+Scan the AR code provided with this card.
+Tap on the Pointer Icon:
 
-Tap on the pointer icon to show the gift inside 
+Once the AR code is scanned successfully, a pointer icon will appear. Tap on it to reveal the hidden gift inside the card.
 
 Notes
-No need to install Adobe Aero 
+No Need to Install Adobe Aero:
+
+Our augmented reality experience works seamlessly without the need to install any additional software or apps, including Adobe Aero. Enjoy the enchanting experience hassle-free!
